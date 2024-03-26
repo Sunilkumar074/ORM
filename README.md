@@ -8,8 +8,7 @@
 To develop a Django application to store and retrieve data from a Book database using Object Relational Mapping(ORM).
 
 ## Entity Relationship Diagram
-
-![Screenshot 2024-03-22 154650](https://github.com/Sunilkumar074/ORM/assets/152241049/8b0940de-4992-4fb6-ba7e-21466f1c12b7)
+![Alt text](<Screenshot 2024-03-20 064.png>)
 
 ## DESIGN STEPS
 
@@ -48,10 +47,10 @@ class EmployeeAdmin(admin.ModelAdmin):
     list_display=('eid','name','salary','age','email')
 
 ```
-## OUTPUT
+## OUTPUT:
 
-![Screenshot 2024-03-22 154511](https://github.com/Sunilkumar074/ORM/assets/152241049/41c97810-c94a-4f7b-a3b3-5dba819c1ec1)
 
+![Alt text](<Screenshot 2024-03-21.png>)
 
 
 ## RESULT
